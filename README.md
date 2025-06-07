@@ -36,6 +36,8 @@ Make sure you're in the same directory as the game file, then run:
 pgzrun red.py
 ```
 Alternatively, you can double-click the file to run.
+
+
 ---
 
 ##  Project Structure
